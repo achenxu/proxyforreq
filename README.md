@@ -4,6 +4,7 @@ Formats proxies for use in python requests
 Usage:
 -------------------------------------
 Place proxyforreq.py in your package directory
+
 All proxy types are supported
 
 
